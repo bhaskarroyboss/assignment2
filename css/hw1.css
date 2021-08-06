@@ -10,7 +10,7 @@ header, h1, nav, aside, section{
 }
 
 header{
-	background-image: url("../images/header.jpg");
+	background-image: url(../images/header.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% ;
 	
